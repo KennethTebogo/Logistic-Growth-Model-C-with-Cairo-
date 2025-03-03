@@ -6,7 +6,7 @@ This repository contains a C implementation of the **logistic growth model**, a 
 The logistic growth equation is given by:
 
 $$
-\[ \frac{dP}{dt} = kP (M - P) \]
+\ \frac{dP}{dt} = kP (M - P) \
 $$
 
 where:
@@ -29,7 +29,7 @@ sudo apt install libcairo2-dev
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/logistic-growth-c.git
+git clone https://github.com/KennethTebogo/logistic-growth-c.git
 cd logistic-growth-c
 ```
 
